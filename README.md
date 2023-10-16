@@ -9,7 +9,7 @@
             <li style="list-style: none; display: inline;"><a href="latihanABout.html" style="font-size: 20px ; padding: 14px 20px">About</a></li>|
             <li style="list-style: none; display: inline;"><a href="latihanGallerty.html" style="font-size: 20px ; padding: 14px 20px">Gallery</a></li>|
             <li style="list-style: none; display: inline;"><a href="latihanContact.html" style="font-size: 20px ; padding: 14px 20px">Contact</a></li>|
-             <li style="list-style: none; display: inline;"><a href="latihan.html" style="font-size: 20px ; padding: 14px 20px">Latihan</a></li>
+             <li style="list-style: none; display: inline;"><a href="Latihan.html" style="font-size: 20px ; padding: 14px 20px">Latihan</a></li>
         </ul>
     </nav>
     <hr color="blue" width="70%" size="5" align="left">    <p>
