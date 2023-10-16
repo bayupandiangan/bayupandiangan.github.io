@@ -1,5 +1,5 @@
 <title>Menu List</title>
-</head>
+
 <body>
     <hr color="blue" width="70%" size="5" align="left">
     <nav>
