@@ -15,6 +15,6 @@
     <hr color="blue" width="70%" size="5" align="left">    <p>
         <font size=3>Assalammualaikum.Wr.Wb.
         Shalom, Om Swastiastu, Namo Buddhaya, Salam kebajikan. Salam kenal ini adalah Latihan web aku. Web ini berisi informasi tentang Aku. <br> Aku pengen berkaya di web ini dan semoga dapat menginspirasi Teman-teman semua.<a href="http://www.google.com">google</a>
-        Silakan hubungi saya jika ada yang ingin didiskusikan <a href="latihanContact.html" style="font-size: 20px ; padding: 14px 20px">Contact</a></li>
+        Silakan hubungi saya jika ada yang ingin didiskusikan <a href="latihanContact.html" style="font-size: 20px ; padding: 14px 20px">Contact</a>
         </font>
     </p>
