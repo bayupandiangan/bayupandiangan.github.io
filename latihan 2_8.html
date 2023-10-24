@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Registration </title>
+</head>
+
+<body>
+<!--, NAMA,Tgl Lahir, Alamat, Kota, Pekerjaan, Jenis Kelamin,Hobby--> 
+<form>
+    <h1 style="text-align: center;">Free Registration</h1>
+
+        <pre>
+        Nama             : <input type="text" size ="20" name="Nama">
+        Tgl Lahir        : <input type="text" size="1/2" name="Tgl Lahir">/<input type="text" size="1/2" name="Tgl Lahir">/<input type="text" size="2" name="Tgl Lahir">
+        <label for="Alamat">Alamat           :</label>
+                           <textarea id="alamat" name="alamat" rows="3" cols="50"></textarea>
+        Kota             : <input type="text" size ="11" name="Kota">        
+        Pekerjaan        : <select name="Pekerjaan" size="1">
+                           <option value="Tani">Tani</option>
+                           <option value="Data Analyst">Data Analyst</option>
+                           <option value="Programer"> Programer </option>
+                           <option value="Development Web"> Development Web</option>
+                           <option value="IT Support"> IT Support</option>
+                           <option value="Digital Marketing"> Digital Marketing</option>
+                           <option value="Belum Bekerja"> Belum Bekerja</option>
+                           
+                           </select>
+        Jenis Kelamin    : <input type="radio" name="Jenis Kelamin" value="pria">pria <input type="radio" name="Jenis Kelamin" value="wanita">wanita
+        HOBY             : <input type="checkbox" name="hoby" value="futsal">futsal
+                           <input type="checkbox" name="hoby" value="Renang">Renang
+                           <input type="checkbox" name="hoby" value="traveling">travelin
+        </pre>
+                        <input type="submit" value="kirim"> <input type="reset" value="Cancel">
+</form>
+</body>
+</html>
