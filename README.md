@@ -1,22 +1,44 @@
-<title>Bayu Urip Pandiangan</title>
+# Bayu Urip Pandiangan's Website
 
-<body>
-    <hr color="blue" width="100%" size="3" align="left">
-    <nav>
-        <ul style="padding: 10px;">
-            <li style="list-style: none; display: inline;"><a href="latihanHome.html" style="font-size: 18px ; padding: 12px 18px">Home</a></li>|
-            <li style="list-style: none; display: inline;"><a href="latihanProfile.html" style="font-size: 18px ; padding: 12px 18px">Profile</a></li>|
-            <li style="list-style: none; display: inline;"><a href="latihanABout.html" style="font-size: 18px ; padding: 12px 20px">About</a></li>|
-            <li style="list-style: none; display: inline;"><a href="latihanGallerty.html" style="font-size: 18px ; padding: 12px 18px">Gallery</a></li>|
-            <li style="list-style: none; display: inline;"><a href="latihanContact.html" style="font-size: 18px ; padding: 12px 18px">Contact</a></li>|
-             <li style="list-style: none; display: inline;"><a href="Latihan.html" style="font-size: 18px ; padding: 12px 18px">Latihan</a></li>
-        </ul>
-    </nav>
-    <hr color="blue" width="100%" size="3" align="left">    
-    <p>
-        <font size=3>
-        Assalammualaikum.Wr.Wb, Shalom, Om Swastiastu, Namo Buddhaya, Salam kebajikan. Salam kenal ini adalah Latihan web aku. Web ini berisi informasi tentang Aku. 
-        <br> Aku pengen berkaya di web ini dan semoga dapat menginspirasi Teman-teman semua.<a href="http://www.google.com">google</a>
-        <li>Silakan hubungi saya jika ada yang ingin didiskusikan <a href="latihanContact.html" style="font-size: 20px ; padding: 14px 20px">Contact</a></li>
-        </font>
-    </p>
+Welcome to my personal website! This repository contains the HTML code for my web exercise. Feel free to explore and learn more about me through this simple web project.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Website Structure](#website-structure)
+3. [Getting Started](#getting-started)
+4. [Contact](#contact)
+
+## Introduction
+
+Greetings! I extend warm wishes of peace to you with the universal greetings of Assalamualaikum, Shalom, Om Swastiastu, Namo Buddhaya, and Salam kebajikan. Allow me to present myself through this web exercise, where the content is dedicated to sharing information about me. The goal is to contribute knowledge and experiences to the visitors, aspiring to inspire each one of you. This venture marks my initial foray into web development, encompassing both personal practice and academic assignments. As seen, CSS has not been incorporated yet, and the website relies solely on HTML at this stage. I am eager to advance in crafting websites that not only function effectively but also radiate professionalism.
+
+## Website Structure
+
+The website is structured with a navigation bar, header, and a main section. Here's a brief overview:
+
+- **Navigation Bar:**
+  - Home
+  - Profile
+  - About
+  - Gallery
+  - Contact
+  - Latihan
+
+- **Header:**
+  - A horizontal line in blue
+  - Navigation links with a blue horizontal line beneath them
+  - A welcoming heading in navy color
+
+- **Main Section:**
+  - A paragraph introducing the purpose of the website
+  - Unordered list with a contact link
+
+## Getting Started
+
+To view the website, simply open the HTML files in your web browser. Feel free to explore the different sections and learn more about me.
+
+## Contact
+
+Please feel free to contact me if there's anything you would like to discuss. You can reach me through the [Contact](latihanContact.html) page.
+
