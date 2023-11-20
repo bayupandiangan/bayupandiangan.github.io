@@ -1,4 +1,4 @@
-# Bayu Urip Pandiangan's Website
+# [Bayu Urip Pandiangan's Website](latihanHome.html)
 
 Welcome to my personal website! This repository contains the HTML code for my web exercise. Feel free to explore and learn more about me through this simple web project.
 
